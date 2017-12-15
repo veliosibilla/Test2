@@ -10,7 +10,7 @@ namespace Test2_1
     {
         static void Main(string[] args)
         {
-            hgfgf
+            // ALi MAKRI : 14:38
         }
     }
 }
